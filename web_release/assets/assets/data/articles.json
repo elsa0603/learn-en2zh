@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Morning Routine",
+    "english": "I wake up at seven o'clock and make a cup of coffee before starting my day.",
+    "chinese": "我在七點起床，在開始一天前先泡一杯咖啡。"
+  },
+  {
+    "id": 2,
+    "title": "Study Time",
+    "english": "Every evening, I spend at least thirty minutes reading an English article.",
+    "chinese": "每個晚上，我至少花三十分鐘閱讀一篇英文文章。"
+  },
+  {
+    "id": 3,
+    "title": "Weekend Walk",
+    "english": "On weekends, I like to take a walk in the park and listen to podcasts.",
+    "chinese": "週末時，我喜歡在公園散步並聽播客。"
+  }
+]
