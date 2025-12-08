@@ -66315,7 +66315,7 @@ c1(a,b,c){var s=this.a
 if(c?J.hT(s,b):J.lG(s,b))this.ar()}}
 A.P_.prototype={}
 A.EO.prototype={
-N(a){var s=null,r="AIzaSyBecmfIR12VX892eGYH9f5ruvJ9QLHples",q=new A.a5V(r),p=A.ah3(s,A.ajm(B.T,s,s,B.Ez),!0)
+N(a){var s=null,r="AIzaSyBnGr3UOEFpQsIcBFWsYKEexEk9suFCUYU",q=new A.a5V(r),p=A.ah3(s,A.ajm(B.T,s,s,B.Ez),!0)
 return new A.v8(new A.rT(new A.R5("https://raw.githubusercontent.com/elsa0603/learn-en2zh-data/refs/heads/main/articles.json"),s),A.aH(["/vocab",new A.a_E(this,q)],t.N,t.Ab),new A.a_F(this,q,new A.SW(),new A.a5U(r)),"Bilingual Reader",p,!1,s)}}
 A.a_E.prototype={
 $1(a){return new A.nC(this.a.c,this.b,null)},
@@ -66442,7 +66442,7 @@ return A.S($async$qG,r)},
 N(a){var s,r,q,p,o,n=this,m=null,l=A.aa(a),k=l.ok,j=A.lP(16),i=A.bI(n.a.c.b,m,m,m),h=n.e,g=A.Wb(h?B.AL:B.l_,m,m,m),f=t.F
 i=A.afw(A.c([A.Wc(m,m,g,m,m,h?m:n.gZT(),m,m,"\u6717\u8b80\u5168\u6587")],f),m,i)
 g=l.ax
-s=g.k4
+s=g.RG
 h=s==null
 r=h?g.k2:s
 r=A.aA(204,r.v()>>>16&255,r.v()>>>8&255,r.v()&255)
@@ -66618,7 +66618,7 @@ am(){return new A.IE()}}
 A.IE.prototype={
 au(){this.aY()
 this.d=this.a.c.tL()},
-N(a){var s=null,r=A.aa(a),q=A.afw(A.c([A.Wc(s,s,B.AO,s,s,new A.a7s(a),s,s,"\u751f\u5b57\u672c")],t.F),!0,B.N8),p=r.ax,o=p.k4
+N(a){var s=null,r=A.aa(a),q=A.afw(A.c([A.Wc(s,s,B.AO,s,s,new A.a7s(a),s,s,"\u751f\u5b57\u672c")],t.F),!0,B.N8),p=r.ax,o=p.RG
 p=o==null?p.k2:o
 p=A.aA(B.d.ao(76.5),p.v()>>>16&255,p.v()>>>8&255,p.v()&255)
 o=this.d

@@ -223,7 +223,7 @@ class _ArticleDetailPageState extends State<ArticleDetailPage> {
               width: double.infinity,
               padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
               decoration: BoxDecoration(
-                color: theme.colorScheme.surfaceVariant.withOpacity(0.8),
+                color: theme.colorScheme.surfaceContainerHighest.withOpacity(0.8),
                 borderRadius: cardRadius,
               ),
               child: Wrap(
@@ -271,7 +271,7 @@ class _ArticleDetailPageState extends State<ArticleDetailPage> {
               width: double.infinity,
               padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
               decoration: BoxDecoration(
-                color: theme.colorScheme.surfaceVariant.withOpacity(0.8),
+                color: theme.colorScheme.surfaceContainerHighest.withOpacity(0.8),
                 borderRadius: cardRadius,
               ),
               child: Builder(

@@ -60,7 +60,7 @@ class _ArticleListPageState extends State<ArticleListPage> {
         ],
       ),
       body: Container(
-        color: theme.colorScheme.surfaceVariant.withOpacity(0.3),
+        color: theme.colorScheme.surfaceContainerHighest.withOpacity(0.3),
         child: FutureBuilder<List<Article>>(
           future: _articlesFuture,
           builder: (context, snapshot) {

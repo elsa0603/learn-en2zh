@@ -36,8 +36,8 @@ class MyApp extends StatelessWidget {
     final articleRepository = ArticleRepository(articlesUrl);
     final dictionaryService = DictionaryService();
     final translationService =
-        TranslationService('AIzaSyBecmfIR12VX892eGYH9f5ruvJ9QLHples');
-    final ttsService = TtsService('AIzaSyBecmfIR12VX892eGYH9f5ruvJ9QLHples');
+        TranslationService('AIzaSyBnGr3UOEFpQsIcBFWsYKEexEk9suFCUYU');
+    final ttsService = TtsService('AIzaSyBnGr3UOEFpQsIcBFWsYKEexEk9suFCUYU');
 
     return MaterialApp(
       title: 'Bilingual Reader',

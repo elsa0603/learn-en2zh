@@ -83,7 +83,7 @@ class DictionaryService {
         word: word,
         phonetic: phonetic,
         partOfSpeech: partOfSpeech,
-        definition: definition!,
+        definition: definition,
         example: example,
       );
     } catch (_) {
